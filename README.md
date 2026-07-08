@@ -51,6 +51,12 @@ Full run statistics (created, replaced, skipped, errors, runtime) are printed at
 
 **Note:** It will **not** create `clearlogo.png` directly in the paths you list — only inside their **subfolders**.
 
+## Tested on
+
+- Windows 11
+- Jellyfin Web
+- Python 3
+  
 ## License
 
 MIT
