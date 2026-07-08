@@ -1,3 +1,5 @@
+Note: This script is compatible with the [Jellyfin VideoOSD Artwork Display](https://github.com/chrissix666/Jellyfin-VideoOSD-Artwork-Display).
+
 # Bulk Subfolder Clearlogo Creator From Fonts
 
 **Note:** This tool does not work on files (e.g. `.mp4`, `.mkv`) — it works on **subfolders**. It scans each subfolder of your chosen library paths and creates/replaces a `clearlogo.png` inside each one.
