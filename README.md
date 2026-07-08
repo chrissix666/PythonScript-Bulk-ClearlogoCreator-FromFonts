@@ -16,9 +16,13 @@ The output image is **800x310**, intentionally following the **fanart.tv clearlo
 
 ## Fonts: Random or Specific
 
+Supported font types: .ttf & .otf
+
 The `fonts` folder controls the behavior:
 - **One font in the folder** → that exact font is used for every logo (specific/targeted)
 - **Multiple fonts in the folder** → a random font is picked per folder (random bulk creation)
+
+Note: Not all fonts support special characters from other languages (e.g. ä, ö, ü) — check the font beforehand especially on bulk/random use.
 
 ## Styling
 
