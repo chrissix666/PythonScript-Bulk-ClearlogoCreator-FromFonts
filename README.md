@@ -10,7 +10,7 @@ Originally built to generate clearlogos for **Home Videos in Jellyfin** — cont
 
 Think of it as a small **companion to fanart.tv**, just for your own Home Videos: instead of a missing-artwork gap, every folder gets a clean, readable, auto-generated logo based on its folder name.
 
-My personal use: I use Title Fonts for Topic folders & Signature fonts for Person/Character folders.
+My personal use: I use specific Title Fonts for Topic folders & random Signature fonts for Person/Character folders.
 
 <img src="Screenshot.png" width="600">
 
