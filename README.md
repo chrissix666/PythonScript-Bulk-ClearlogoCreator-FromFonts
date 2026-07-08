@@ -54,7 +54,7 @@ Full run statistics (created, replaced, skipped, errors, runtime) are printed at
 
 ## Setup
 
-1. Create a project folder and name it whatever you want. Put the Python script and the `.bat` script into it.
+1. Create a project folder and name it whatever you want. Put the Python `.py` script and the Batch `.bat` file into it.
 2. Create a folder called `fonts` inside it and put **1 font** in for specific selection, or **more fonts** in for random selection.
 3. Create a text file called `paths.txt` in the project folder. Put the paths in which the subfolders should get a `clearlogo.png`, one path per line (line break).
 4. Run the script with the `.bat`. Test with Dry Run first.
