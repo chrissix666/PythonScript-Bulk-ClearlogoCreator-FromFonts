@@ -1,6 +1,7 @@
 # Bulk Subfolder Clearlogo Creator From Fonts
 
 **Note:** This tool does not work on files (e.g. `.mp4`, `.mkv`) — it works on **subfolders**. It scans each subfolder of your chosen library paths and creates/replaces a `clearlogo.png` inside each one.
+*If you want different behavior — for example, targeting specific video files instead of subfolders — feel free to adjust the code to your needs. For a script this small, an AI tool can help you make those changes quickly.
 
 ## Purpose
 
@@ -21,6 +22,7 @@ The `fonts` folder controls the behavior:
 ## Styling
 
 The script is designed to produce **white logos with a light black outline**, for consistent readability over any backdrop, poster, or dark background.
+*If you want different behavior — for example, specific colors or borders  — feel free to adjust the code to your needs. For a script this small, an AI tool can help you make those changes quickly.
 
 ## Modes
 
