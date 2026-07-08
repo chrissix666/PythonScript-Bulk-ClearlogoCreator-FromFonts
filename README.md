@@ -12,6 +12,8 @@ Think of it as a small **companion to fanart.tv**, just for your own Home Videos
 
 My personal use: I use Title Fonts for Topic folders & Signature fonts for Person/Character folders.
 
+<img src="Screenshot.png" width="600">
+
 ## Aspect Ratio
 
 The output image is **800x310**, intentionally following the **fanart.tv clearlogo convention** — not Jellyfin's 16:9 default — so generated logos stay consistent with real scraped clearlogos from fanart.tv.
